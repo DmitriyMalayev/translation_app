@@ -1,2 +1,2 @@
-# translation_app
+# first_app
 Created with CodeSandbox
