@@ -1,2 +1,2 @@
-# Translation APp
+# Translation App
 Created with CodeSandbox
